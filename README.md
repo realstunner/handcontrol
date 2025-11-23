@@ -15,9 +15,7 @@ it my one of those 1st project
 
 This project lets you control games like:
 
-Hill Climb Racing
-
-GTA
+Hill Climb Racing(game with two key control)
 
 CarX
 
