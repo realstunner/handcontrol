@@ -5,7 +5,7 @@ Control ANY PC game using only your hand gestures and a webcam.
 Uses OpenCV, MediaPipe 0.8.11, and PyDirectInput for real-time keyboard simulation.
 
 
-
+it my one of those 1st project
 
 
 
